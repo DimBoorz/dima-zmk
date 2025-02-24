@@ -18,11 +18,11 @@
 
         Func_EasySymb {
             bindings = <
-&kp F1  &kp F2     &kp F3     &kp F4     &kp F5     &kp F6  &none                                                    &none  &kp F7  &kp F8    &kp F9    &kp F10    &kp F11    &kp F12
-&trans  &kp LT     &kp GT     &kp UNDER  &kp DOT    &trans  &none                                                    &none  &trans  &kp LPAR  &kp RPAR  &kp SQT    &kp DQT    &trans
-&trans  &kp EXCL   &kp EQUAL  &kp COLON  &kp COMMA  &trans  &none          &trans  &trans    &trans  &trans          &none  &trans  &kp LBKT  &kp RBKT  &kp MINUS  &kp PLUS   &trans
-&trans  &kp TILDE  &kp AT     &kp AMPS   &kp PIPE   &trans                         &trans    &trans                         &trans  &kp LBRC  &kp RBRC  &kp ASTRK  &kp SLASH  &trans
-&trans  &kp SEMI   &kp CARET  &kp BSLH   &trans                    &trans  &trans  &trans    &trans  &trans  &trans                 &trans    &trans    &trans     &trans     &trans
+&kp F1             &kp F2            &kp F3             &kp F4                &kp F5                 &kp F6  &none                                                    &none  &kp F7  &kp F8         &kp F9             &kp F10               &kp F11          &kp F12
+&kp K_VOLUME_UP    &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &trans  &none                                                    &none  &trans  &kp PLUS       &kp MINUS          &kp ASTERISK          &kp SLASH        &trans
+&kp K_VOLUME_DOWN  &kp EXCL          &kp UNDERSCORE     &kp PERIOD            &kp EQUAL              &trans  &none          &trans  &trans    &trans  &trans          &none  &trans  &kp SQT        &kp DOUBLE_QUOTES  &kp LEFT_BRACE        &kp RIGHT_BRACE  &trans
+&trans             &kp TILDE         &kp AT             &kp AMPS              &kp PIPE               &trans                         &trans    &trans                         &trans  &kp SEMICOLON  &kp CARET          &kp NON_US_BACKSLASH  &kp PIPE         &trans
+&trans             &trans            &trans             &kp K_PREVIOUS        &kp K_NEXT                            &trans  &trans  &trans    &trans  &trans  &trans                 &trans         &trans             &trans                &trans           &trans
             >;
         };
 
