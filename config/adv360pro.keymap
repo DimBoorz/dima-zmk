@@ -38,11 +38,11 @@
 
         GameMode {
             bindings = <
-&trans  &trans  &trans  &trans  &trans  &trans  &trans                                                    &trans  &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &trans  &kp Q   &kp W   &kp E   &trans  &trans                                                    &trans  &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &trans  &kp A   &kp S   &kp D   &trans  &trans          &trans  &trans    &trans  &trans          &trans  &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &trans  &trans  &trans  &trans  &trans                          &trans    &trans                          &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &trans  &trans  &trans  &trans                  &trans  &trans  &trans    &trans  &trans  &trans                  &trans  &trans  &trans  &trans  &trans
+&trans  &trans  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_4  &trans                                                                           &trans  &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &kp Z   &kp Q         &kp W         &kp E         &kp I         &trans                                                                           &trans  &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &kp X   &kp A         &kp S         &kp D         &kp M         &trans                    &kp LS(TAB)  &kp LEFT_ALT      &trans  &trans          &trans  &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &kp V   &kp C         &kp R         &kp F         &trans                                               &kp LEFT_SHIFT    &trans                          &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &trans  &trans        &trans        &trans                              &kp LEFT_CONTROL  &kp SPACE    &trans            &trans  &trans  &trans                  &trans  &trans  &trans  &trans  &trans
             >;
         };
     };
