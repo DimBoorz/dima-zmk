@@ -47,10 +47,10 @@
 &none   &none    &none         &trans           &none         &none                                                                                             &none   &none   &trans  &none   &none   &none
 &trans  &trans   &kp NUMBER_1  &kp NUMBER_2     &kp NUMBER_3  &kp NUMBER_4                                                                                      &trans  &trans  &trans  &trans  &trans  &trans
 &trans  &kp Z    &kp Q         &kp W            &kp E         &kp I                                                                                             &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &kp X    &kp A         &kp S            &kp D         &kp M                            &kp LS(TAB)  &kp LEFT_ALT                                        &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &kp V    &kp C         &kp R            &kp F         &trans                                               &kp LEFT_SHIFT                               &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &trans   &trans        &trans           &none         &none                    &kp LEFT_CONTROL  &kp SPACE    &trans                                    &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &kp LALT &kp TAB       &kp LEFT_SHIFT   &kp SPACE     &kp LCTRL
+&trans  &kp X    &kp A         &kp S            &kp D         &kp M                                                                                             &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &kp V    &kp C         &kp R            &kp F         &trans                                                                                            &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &trans   &trans        &trans           &none         &none                                                                                             &none   &none   &trans  &trans  &trans  &trans
+&trans  &kp LALT &kp TAB       &kp LEFT_SHIFT   &kp SPACE     &kp LCTRL                                                                                         &trans  &trans  &trans  &trans  &trans  &trans
             >;
         };
     };
