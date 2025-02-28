@@ -19,5 +19,5 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: adv360pro
-    artifact-name: adv360pro_auto
+    shield: adv361
+    artifact-name: adv361_auto
