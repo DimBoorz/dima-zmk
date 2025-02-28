@@ -1,0 +1,4 @@
+config DIMA_ZMK_SHIELD
+    bool "Dima ZMK Shield"
+    depends on SHIELD_DIMA_ZMK
+    default y
