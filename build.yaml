@@ -19,5 +19,5 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: adv361
-    artifact-name: adv361_auto
+    shield: dima-zmk
+    artifact-name: dima-zmk_auto
