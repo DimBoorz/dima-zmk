@@ -1,4 +1,8 @@
-config DIMA_ZMK_SHIELD
-    bool "Dima ZMK Shield"
-    depends on SHIELD_DIMA_ZMK
-    default y
+# Copyright (c) 2022 The ZMK Contributors
+# SPDX-License-Identifier: MIT
+
+config SHIELD_DIMA-ZMK_LEFT
+    def_bool $(shields_list_contains,dima-zmk_left)
+
+config SHIELD_DIMA-ZMK_RIGHT
+    def_bool $(shields_list_contains,dima-zmk_right)
